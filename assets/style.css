@@ -1,3 +1,11 @@
+*{
+    margin: 0;
+}
+
+main{
+    padding: 10px 70px;
+}
+
 .banner{
     background-color: rgb(43, 147, 250);
     background-image: url(../img/pattern.png);
@@ -36,7 +44,7 @@ a{
 }
 
 table{
-    margin-top: 28px;
+    margin: 28px 0;
     border-collapse: collapse;
 }
 
