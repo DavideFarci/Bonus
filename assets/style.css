@@ -93,5 +93,6 @@ aside{
     font-size: 20px;
     margin-left: 20px;
     margin-top: 10px;
-    text-decoration: solid;
+    text-decoration: none;
+    font-weight: bold;
 }
